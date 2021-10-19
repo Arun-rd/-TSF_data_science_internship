@@ -21,6 +21,8 @@
 
 [![task-1](https://img.shields.io/badge/Prediction_using_Supervised_ML-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)](https://github.com/Arun-rd/TSF_data_science_internship/tree/main/Task%201%20-%20Prediction%20using%20Supervised%20ML%20-%20Beginner)
 
+---
+
 ## 🌟 Task 2 - Prediction using Unsupervised ML (Level - Beginner)
 
 > Problem Statement:
@@ -29,4 +31,4 @@
 
 **Solution:**
 
-[![task-2](https://img.shields.io/badge/Prediction_using_Unsupervised_ML-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)]
+[![task-2](https://img.shields.io/badge/Prediction_using_Unsupervised_ML-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)](https://github.com/Arun-rd/TSF_data_science_internship/tree/main/Task%202%20-%20Prediction%20using%20Unsupervised%20ML%20-%20Beginner)
