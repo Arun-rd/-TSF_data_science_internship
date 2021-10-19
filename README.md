@@ -16,3 +16,7 @@
 2. This is a simple linear regression task as it involves just 2 variables.
 3. What will be predicted score if a student studies for 9.25 hrs/ day?
 4. Data can be found at http://bit.ly/w
+
+**Solution:**
+
+[![task-1](https://img.shields.io/badge/Prediction_using_Supervised_ML-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)]
