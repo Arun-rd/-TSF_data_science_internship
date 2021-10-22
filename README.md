@@ -32,3 +32,19 @@
 **Solution:**
 
 [![task-2](https://img.shields.io/badge/Prediction_using_Unsupervised_ML-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)](https://github.com/Arun-rd/TSF_data_science_internship/tree/main/Task%202%20-%20Prediction%20using%20Unsupervised%20ML%20-%20Beginner)
+
+---
+
+## 🌟 Task 3 - Exploratory Data Analysis - Retail (Level - Beginner)
+
+> Problem statement:
+
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+2. As a business manager, try to find out the weak areas where you can work to make more profit.
+3. What all business problems you can derive by exploring the data?
+4. Data can be found at https://bit.ly/3i4rbWl
+
+
+**Solution:**
+
+[![task-3]
