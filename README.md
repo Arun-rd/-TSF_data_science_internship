@@ -47,4 +47,4 @@
 
 **Solution:**
 
-[![task-3](https://img.shields.io/badge/Eploratory_Data_Analysis_:_Retail-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)](https://github.com/Arun-rd/TSF_data_science_internship/tree/main/Task%203%20-%20Exploratory%20Data%20Analysis%20-%20Retail)
+[![task-3](https://img.shields.io/badge/Exploratory_Data_Analysis_:_Retail-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)](https://github.com/Arun-rd/TSF_data_science_internship/tree/main/Task%203%20-%20Exploratory%20Data%20Analysis%20-%20Retail)
