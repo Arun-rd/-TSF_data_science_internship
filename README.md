@@ -47,4 +47,4 @@
 
 **Solution:**
 
-[![task-3]
+[![task-3](https://github.com/Arun-rd/TSF_data_science_internship/tree/main/Task%203%20-%20Exploratory%20Data%20Analysis%20-%20Retail)
