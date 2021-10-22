@@ -1,4 +1,4 @@
-# TSF_data_science_internship
+# TSF_Data_Science_Internship
 
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 
